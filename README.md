@@ -1,2 +1,1 @@
-# exam-paper-downloader-
-Secure exam paper downloader with Zero Trust security
+# Exam Paper Downloading Project with Zero Trust Security
